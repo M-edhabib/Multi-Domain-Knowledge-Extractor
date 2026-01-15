@@ -1,0 +1,18 @@
+Analyse de votre situation financière :
+             Votre chiffre d'affaires :Représente les revenus que vous avez générés .
+                                - Vos revenus sont de 330209 €, ce qui est supérieurs à la médiane 178649 €. Cette médiane divise votre panel en deux : la première moitié a une valeur inférieure et la seconde moitié a une valeur supérieure.
+                                    Votre positionnement par rapport à votre panel est 16 sur 88 entreprise . Le panel est constitué avec les données d’entreprises du même secteur d’activité (NAF) et du secteur géographique correspondant à celui de votre entreprise.
+                                    Votre évolution par rapport à l'année dernière est de +4,1% qui correspond à  13080 €. Il s'agit d'une amélioration modeste.
+                        Le ratio de Votre marge brute :évalue Votre marge brute par rapport à Votre chiffre d'affaires . Votre marge brute est de 43,2% . 
+                                        La médiane du secteur selon votre panel est égale à 47,4% , vous êtes inférieur à la médiane. 
+                                 Votre positionnement par rapport à votre panel est  61 sur 88.
+                                - Votre évolution par rapport à l'année dernière est de +8point. Il s'agit d'une amélioration modeste. Cette évolution mesure l'écart entre vos ratios de l'année courante et ceux de l'année précédente et elle est mesuré par point.
+                             le ratio de Votre rentabilité (EBE): évalue Votre rentabilité (EBE) par rapport à Votre chiffre d'affaires. Votre rentabilité (EBE) est égale à 7%.  la médiane du secteur est 15,6%, votre êtes inférieur à la médiane.
+                                    Votre évolution par rapport à l'année dernière est de -1,3point. Il s'agit d'une légère diminution.
+                            Vos Achats directs représentent 56,8% de vos revenus .
+                             Vos Charges Externes représentent 20,4% de vos revenus .
+                            Panorama du marché :
+                        Les revenus générés dans votre secteur sur la France ont enregistré une amélioration modeste égale à +8,7 % en 2022 par rapport à 2021.
+                        Le nombre d'établissements dans votre commune a enregistré une amélioration modeste égale à +3,7 % en 2022 par rapport à 2021.
+                        Le nombre de concurrents dans votre commune a enregistré une diminution significative égale à -13 concurrents en 2022 par rapport à 2021.
+                        Le prix des locaux commerciaux dans votre département a enregistré une augmentation modeste égale à +7,0 % en 2022 par rapport à 2021.
